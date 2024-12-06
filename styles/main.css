@@ -1,0 +1,173 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+p {
+    margin: 0;
+}
+#divhead {
+    height: 48px;
+    box-sizing: border-box;
+    margin: 12px 80px;
+    vertical-align: middle;
+    margin-bottom: 76px;
+}
+#nextMoveDiv {
+    max-width: 352px;
+    width: 100%;
+    display: inline-block;
+    text-align: left;
+}
+#nextMoveDiv a {
+    text-decoration: none;
+}
+#nextmovelogo {
+    width: 147px;
+    height: 21px;
+    padding: 14px;
+    vertical-align: middle;
+}
+#headcenter {
+    display: inline-block;
+    max-width: 343px;
+    width: 100%;
+    height: 22px;
+    vertical-align: middle;
+    text-align: center;
+}
+#headcenter a {
+    vertical-align: middle;
+    margin: 0 10px;
+    font-size: 18px;
+    color: #323232;
+    text-decoration: none;
+}
+
+#offers {
+    margin-right: 0;
+}
+#products {
+    margin-left: 0;
+}
+#headcenter #offers{
+    vertical-align: middle;
+    font-size: 18px;
+    color: #323232;
+}
+#divhead #headcenter {
+    text-align: center;
+}
+#contactusDiv {
+    display: inline-block;
+    max-width: 352px;
+    width: 100%;
+    text-align: right;
+}
+#contactUs a {
+    text-decoration: none;
+}
+#contactUs {
+    border: 1px solid #AC00FF;
+    border-radius: 8px;
+    padding: 8px 16px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #AC00FF;
+    background-color: #E9D7FE;
+}
+#cardsImageDiv {
+    text-align: right;
+    margin-bottom: -1100px
+}
+
+#cardsImage {
+    max-width: 1311px;
+    width: 100%;
+    height: 761px;
+    margin-top: 271px;
+    border-radius: 16px;
+}
+#mainInfo {
+    display: inline-block;
+    max-width: 841px;
+    width: 100%;
+    height: 314px;
+    margin-left: 214px;
+    margin-top: 76px;
+}
+#titleText {
+    max-width: 720px;
+    width: 100%;
+    height: 148px;
+    margin-bottom: 24px;
+}
+#titleFirst {
+    color: #323232;
+    font-size: 64px;
+    margin: 0;
+}
+#titleSecond {
+    color: #323232;
+    font-size: 64px;
+    margin: 0;
+}
+#textParagh {
+    max-width: 841px;
+    width: 100%;
+    height: 64px;
+    margin-bottom: 24px;
+}
+#firstParagh {
+    font-size: 24px;
+    color: #323232;
+}
+#secondParagh {
+    font-size: 24px;
+    color: #323232;
+}
+#joinNowDiv {
+    display: inline-block;
+    max-width: 204px;
+    width: 100%;
+    height: 54px;
+    background-color: #5C3BAE;
+    border-radius: 8px;
+    text-align: center;
+    vertical-align: middle;
+}
+#joinNow {
+    background-color: #5C3BAE;
+    border: none;
+    height: 54px;
+}
+#joinNow a {
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    text-decoration: none;
+}
+#watchVideoDiv {
+    display: inline-block;
+    max-width: 194px;
+    width: 100%;
+    height: 32px;
+    vertical-align: top;
+    vertical-align: middle;
+    margin-left: 24px;
+}
+#watchVideoAnchor {
+    text-decoration: none;
+}
+#watchImage {
+    max-width: 32px;
+    width: 100%;
+    height: 32px;
+    margin-right: 12px;
+    vertical-align: middle;
+}
+#watchVideoHere {
+    color: #4D3491;
+    font-size: 18px;
+    font-weight: 500;
+    vertical-align: middle;
+}
